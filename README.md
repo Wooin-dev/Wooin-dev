@@ -17,7 +17,7 @@
 #### 팀 프로젝트
 페스티벌 정보 플랫폼 [<라페스타>](https://github.com/LaFesta7/LikeFesta)
 
-[뉴스피드 프로젝트 실습](https://github.com/Wooin-dev/Interview_Feed)
+뉴스피드 프로젝트 실습 [인터뷰피드](https://github.com/Wooin-dev/Interview_Feed)
 
 
 #### 개인 프로젝트
