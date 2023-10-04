@@ -1,15 +1,19 @@
-<div align="center">
+<div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Wooin%20dev&animation=fadeIn&fontColor=222222&height=200&color=6DB33F)
 
+## 🙋‍♂️ Hello!
 
-### 🪐 My Blog
+### 매순간 120%에 도전합니다.<br>빨리 가려고만 하는 것이 아닌 견고하게 쌓아가며 멀리갈 수 있는 백엔드 개발자를 지향합니다.
+
+<br>
+
 
 <a href="https://thiswooin.tistory.com/" target="_blank">**블로그 링크**</a>
 <br><br><br>
 
 
-### 🧱 My Stack
+## 🧱 My Stack
 
   
 **Back-End** <br>
