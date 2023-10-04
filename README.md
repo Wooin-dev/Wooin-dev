@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Hello!
 
-### 매순간 120%에 도전합니다.<br>빨리 가려고만 하는 것이 아닌 견고하게 쌓아가며 멀리갈 수 있는 백엔드 개발자를 지향합니다.
+#### 매순간 120%에 도전합니다.<br>빨리 가려고만 하는 것이 아닌 견고하게 쌓아가며 멀리갈 수 있는 백엔드 개발자를 지향합니다.
 
 <br>
 
@@ -12,6 +12,18 @@
 <a href="https://thiswooin.tistory.com/" target="_blank">**블로그 링크**</a>
 <br><br><br>
 
+## 🏁 Projects Repository
+
+#### 팀 프로젝트
+페스티벌 정보 플랫폼 [<라페스타>](https://github.com/LaFesta7/LikeFesta)
+
+[뉴스피드 프로젝트 실습](https://github.com/Wooin-dev/Interview_Feed)
+
+
+#### 개인 프로젝트
+퀴즈형 드립 게시판 푸하하 [백엔드](https://github.com/Wooin-dev/HAHAHA_Project) / [프론트엔드](https://github.com/Wooin-dev/HAHAHA-Front)
+
+<br><br><br>
 
 ## 🧱 My Stack
 
