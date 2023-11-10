@@ -19,7 +19,7 @@
 뉴스피드 프로젝트 실습 [인터뷰피드](https://github.com/Wooin-dev/Interview_Feed) (a week with 4🙋‍♂️)
 
 #### 개인 프로젝트
-퀴즈형 드립 게시판 하하하 (진행중) [백엔드](https://github.com/Wooin-dev/HAHAHA-Back) / [프론트엔드](https://github.com/Wooin-dev/HAHAHA-Front)
+퀴즈형 드립 게시판 푸하하 (진행중) [백엔드](https://github.com/Wooin-dev/HAHAHA-Back) / [프론트엔드](https://github.com/Wooin-dev/HAHAHA-Front)
 
 <br><br><br>
 
