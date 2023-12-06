@@ -14,12 +14,13 @@
 
 ## 🏁 Projects Repository
 
+#### 개인 프로젝트
+퀴즈형 드립 게시판 푸하하 (진행중) [백엔드](https://github.com/Wooin-dev/HAHAHA-Back) / [프론트엔드](https://github.com/Wooin-dev/HAHAHA-Front)
+
 #### 팀 프로젝트
 페스티벌 정보 플랫폼 [<라페스타>](https://github.com/LaFesta7/LikeFesta) (5 weeks with 5🙋‍♂️) <br>
 뉴스피드 프로젝트 실습 [인터뷰피드](https://github.com/Wooin-dev/Interview_Feed) (a week with 4🙋‍♂️)
 
-#### 개인 프로젝트
-퀴즈형 드립 게시판 푸하하 (진행중) [백엔드](https://github.com/Wooin-dev/HAHAHA-Back) / [프론트엔드](https://github.com/Wooin-dev/HAHAHA-Front)
 
 <br><br><br>
 
