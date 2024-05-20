@@ -16,7 +16,7 @@
 
 #### 개인 프로젝트
 
-습관형성 어플 D'ONE (24.04~) [[배포중 link](http://43.202.235.126:3000/)]    [백엔드](https://github.com/Wooin-dev/dailyone_server) / [프론트엔드](https://github.com/Wooin-dev/dailyone_web)
+습관형성 어플 D'ONE (24.04~) [[배포중 link](http://done.n-e.kr)]    [백엔드](https://github.com/Wooin-dev/dailyone_server) / [프론트엔드](https://github.com/Wooin-dev/dailyone_web)
 
 퀴즈형 드립 게시판 푸하하 (~24.01) [백엔드](https://github.com/Wooin-dev/HAHAHA-Back) / [프론트엔드](https://github.com/Wooin-dev/HAHAHA-Front)
 
